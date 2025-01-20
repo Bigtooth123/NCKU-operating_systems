@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sender.h": "c",
+        "stdio.h": "c",
+        "types.h": "c"
+    }
+}
